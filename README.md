@@ -16,3 +16,5 @@ Please report any bugs or issues here on GitHub!
 3. Open the folder where `wbuild.exe` is located
 
 and double-click the executable.
+
+*Downloading the source code is not recommended!!!*
