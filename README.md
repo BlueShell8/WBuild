@@ -1,6 +1,6 @@
 ## 🚀 WBuild v1.0.0 
 
-This is the first public beta release of WBuild.
+This is the first public release of WBuild.
 It aims to make Wii Homebrew development easier by removing the need for complex Makefiles.
 
 ### 🛠 What's included:
