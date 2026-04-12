@@ -13,4 +13,6 @@ Please report any bugs or issues here on GitHub!
 ### 📥 How to install:
 1. Download `wbuild.exe` below.
 2. copy the exe in a folder or in the Template.
-3. Open a CMD in your project folder and type `wbuild`.
+3. Open the folder where `wbuild.exe` is located
+
+and double-click the executable.
